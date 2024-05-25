@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**ravindrareddy738/ravindrareddy738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Ravindra learning programming .</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚  Entry-level software developer passionate about system design and open-source. Looking for opportunities to build impactful projects and grow my skills.</p>
+
+###
+
+
+<h2>👨‍💻 Software Development Projects:</h2>
+  - <b> Tic Tac Toe Game </b>
+  
+  -<b> Real world stock transaction project </b>
+  
+ - <b>Data Structures and Algorithms</b>
+  - [Praciting DS & Algos in C++ ]
+ 
+  
+###
+<h2 align="left">I code with</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
