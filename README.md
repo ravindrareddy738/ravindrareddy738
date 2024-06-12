@@ -18,7 +18,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
   - <b> Tic Tac Toe Game </b>
   
-  -<b> Real world stock transaction project </b>
+  -<b>Stock market prediction project </b>
+
+  
+  -<b> Hostel room allocation project </b>
   
  - <b>Data Structures and Algorithms</b>
   - [Praciting DS & Algos in C++ ]
